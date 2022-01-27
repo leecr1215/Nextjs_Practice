@@ -4,13 +4,13 @@ NextJS Fundenmentals Course In Nomadcoder
 
 ---
 
-## Nomad coder link
+## 📎 Nomad coder link
 
 - [NextJS 시작하기](https://nomadcoders.co/nextjs-fundamentals)
 
 ---
 
-## 기본 지식
+## 📝 기본 지식
 
 - 처음 시작
   - `npm run dev`
