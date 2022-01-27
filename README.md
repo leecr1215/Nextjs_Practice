@@ -10,7 +10,7 @@ NextJS Fundenmentals Course In Nomadcoder
 
 ---
 
-## 📝 기본 지식
+## 📝 강의 요약
 
 - 처음 시작
   - `npm run dev`
